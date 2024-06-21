@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833144948147",
+    "project_id": "pointsaver-66f65",
+    "storage_bucket": "pointsaver-66f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833144948147:android:738023bad21dea3804b7c6",
+        "android_client_info": {
+          "package_name": "com.pointsaverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuniz578ClDO_OwUPO9XGLtunl3BG-Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
