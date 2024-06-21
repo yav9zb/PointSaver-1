@@ -1,7 +1,13 @@
 {
   "expo": {
     "name": "PointsaverApp",
-    "slug": "PointsaverApp",
-    "version": "1.0.0"
+    "slug": "pointsaver",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e33cb28d-8f0f-4e53-bdcd-3106ac4d9828"
+      }
+    },
+    "owner": "yav9zb"
   }
 }
