@@ -2,6 +2,7 @@
   "name": "pointsaverapp-1",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -11,17 +12,30 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/stack": "^6.3.29",
+    "ajv": "^8.16.0",
+    "ansi-html": "^0.0.9",
     "axios": "^1.7.2",
-    "expo": "~51.0.14",
+    "braces": "^3.0.3",
+    "browserslist": "^4.23.1",
     "expo-status-bar": "~1.12.1",
+    "express": "^4.19.2",
+    "glob-parent": "^6.0.2",
+    "got": "^14.4.1",
     "metro-config": "^0.80.9",
+    "qs": "^6.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.2"
+    "react-native": "^0.74.2",
+    "semver": "^7.6.2",
+    "typescript": "~5.5.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.24.7",
     "@babel/core": "^7.24.7",
-    "@babel/preset-env": "^7.24.7"
+    "@babel/preset-env": "^7.24.7",
+    "@types/react": "~18.2.79",
+    "@types/react-native": "^0.73.0",
+    "expo": "^51.0.14",
+    "expo-cli": "^4.0.17"
   },
   "private": true
 }
